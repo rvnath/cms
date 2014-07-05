@@ -1,0 +1,20 @@
+div.cpanel {
+	/*border: 1px solid #CECECE;*/
+	border-radius: 2px;
+}
+
+.cpanel-heading {
+	border:none;
+	border-bottom: 1px solid #CECECE;
+	padding:5px;
+	background-color: #FAFAFA;
+}
+
+.cpanel-body {
+	padding:10px;
+}
+
+.cpanel-heading h3 {
+	font-weight: bold;
+	display:inline-block;
+}

@@ -1,0 +1,43 @@
+[
+	{
+		"category": "Courses",
+		"icon": "fa-book",
+		"options": [
+			{
+				"title": "Course List",
+				"icon": "fa-list",
+				"href": "#"
+			},
+			{
+				"title": "Course Schedule",
+				"icon": "fa-calendar",
+				"href": "course-schedule.html"
+			}, 
+			{
+				"title": "New Course",
+				"icon": "fa-plus",
+				"href": "#"
+			}, 
+			{
+				"title": "Create a Batch",
+				"icon": "fa-clock-o",
+				"href": "#"
+			}
+		]
+	}, {
+		"category": "Faculty Members",
+		"icon": "fa-user",
+		"options": [
+			{
+				"title": "Add New Faculty",
+				"icon": "fa-plus",
+				"href": "#"
+			},
+			{
+				"title": "Update Profile",
+				"icon": "fa-edit",
+				"href": "#"
+			}
+		]
+	}
+]

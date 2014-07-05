@@ -1,0 +1,15 @@
+/**
+ * 	Modifications to fullCalendar CSS to make it look smaller and leaner.
+ *  Especially the fonts.
+ */
+
+/*  	Heading title 			*/
+.fc-header-title > h2 { 
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.fc-widget-header {
+	font-size:11px;
+	font-weight:bold;
+}
